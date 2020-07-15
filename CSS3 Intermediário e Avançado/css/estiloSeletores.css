@@ -1,0 +1,35 @@
+/*Seletor Universal*/
+/**{
+	border: 1px solid red;
+}
+/*Seletor de texto*/
+h3{
+	color: yellow;
+}
+/*Seletor de Classe*/
+/*.verde{
+	color: green;
+}
+/*apenas paragrafos+*/
+p.verde{
+	color: green;
+}
+#titulo{
+	border: 1px solid purple;
+}
+/*Seletor Filho*/
+/*li>a{
+	color: red;
+}
+/*Seletor descendente*/
+p span{
+	background: yellow;
+}
+/* Seletor Irmão adjacente*/
+/*h3+p{
+	color: purple;
+}
+/*Seletor Irmao geral*/
+h3~p{
+	color: pink;
+}
